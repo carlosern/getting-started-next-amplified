@@ -1,0 +1,11 @@
+{
+    "serverlessConsole.services": [
+        {
+            "type": "dynamodb",
+            "title": "Post-bcdtbb6jxndq7npwhhnxrvjnb4-dev",
+            "tableName": "Post-bcdtbb6jxndq7npwhhnxrvjnb4-dev",
+            "awsProfile": "default",
+            "region": "us-east-2"
+        }
+    ]
+}
